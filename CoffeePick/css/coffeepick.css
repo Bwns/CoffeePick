@@ -1,0 +1,35 @@
+.container{
+    margin: 0 auto;
+    background-color: antiquewhite;
+    width: 1000px;
+    height: 1500px;
+}
+
+.coffeepick{
+    display: inline-block;
+    width: 800px;
+
+}
+.login, .join{
+    display: inline-block;
+    text-align: center;
+    width: 80px;
+    border: 1px solid black;
+}
+
+nav{
+    text-align: center;
+}
+nav .nav{
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    border: 1px solid black;
+}
+
+.contents {
+    background-color: rgb(217, 209, 199);
+    width: 1000px;
+    height: 1200px;
+    text-align: center;
+}
